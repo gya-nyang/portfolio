@@ -10,7 +10,7 @@ onMounted(() => {
 
 const getImgUrl =(imgPath)=> {
   const rename = imgPath.trim()
-  return `/public/images/portfolio/${rename}`
+  return `/images/portfolio/${rename}`
 }
 
 console.log(props)
