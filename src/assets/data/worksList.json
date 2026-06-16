@@ -13,7 +13,7 @@
             "name": "에스팀",
             "duration": "2017.06 - 2018.08",
             "img": "portfolio_07.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_07.jpg",
+            "link": "/images/portfolio/portfolio_07.jpg",
             "techStack": "photoshop"
         },
         {
@@ -29,7 +29,7 @@
             "name": "삼성서울병원 국제협력파트",
             "duration": "2019.03 - 2020.01",
             "img": "portfolio_05.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_05.jpg",
+            "link": "/images/portfolio/portfolio_05.jpg",
             "techStack": "photoshop"
         },
         {
@@ -37,7 +37,7 @@
             "name": "손스마켓_미국유제품협회",
             "duration": "2019.05",
             "img": "portfolio_06.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_06.jpg",
+            "link": "/images/portfolio/portfolio_06.jpg",
             "techStack": "photoshop"
         },
         {
@@ -53,7 +53,7 @@
             "name": "전남대학교 기초교육원",
             "duration": "2019.11 - 2020.06",
             "img": "portfolio_10.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_10.jpg",
+            "link": "/images/portfolio/portfolio_10.jpg",
             "techStack": "photoshop"
         },
         {
@@ -109,7 +109,7 @@
             "name": "월성원자력본부",
             "duration": "2021.02",
             "img": "portfolio_14.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_14.jpg",
+            "link": "/images/portfolio/portfolio_14.jpg",
             "techStack": "photoshop"
         },
         {
@@ -133,7 +133,7 @@
             "name": "필라웨어",
             "duration": "2021.08 - 2022.05",
             "img": "portfolio_02.jpg",
-            "link": "/src/assets/images/portfolio/portfolio_02.jpg",
+            "link": "/images/portfolio/portfolio_02.jpg",
             "techStack": "photoshop / html / css"
         },
         {
@@ -141,7 +141,7 @@
             "name": "WWF KOREA 판다메일",
             "duration": "2022.08",
             "img": "portfolio_15.jpg",
-            "link": "/src/assets/images/portfolio/wwfkorea/mail_inline.html",
+            "link": "/images/portfolio/wwfkorea/mail_inline.html",
             "techStack": "html / css"
         }
     ],

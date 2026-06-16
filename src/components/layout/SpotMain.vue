@@ -6,7 +6,7 @@ import { ref } from 'vue'
   <section id="spot">
     <main>
       <h2 class="wrap">
-        Anjonghyun
+        An<br class="in-mobile">jonghyun
       </h2>
     </main>
   </section>
@@ -17,6 +17,15 @@ import { ref } from 'vue'
   .wrap {
     padding-block: $space-lg;
     @include font-typo;
+
+    .in-mobile {
+      display: none;
+    }
+    @include mobile {
+      .in-mobile {
+        display: inline;
+      }
+    }
   }
 }
 </style>

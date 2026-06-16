@@ -10,7 +10,7 @@ onMounted(() => {
 
 const getImgUrl =(imgPath)=> {
   const rename = imgPath.trim()
-  return new URL(`../../assets/images/portfolio/${rename}`, import.meta.url).href
+  return `/public/images/portfolio/${rename}`
 }
 
 console.log(props)
