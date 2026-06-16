@@ -1,0 +1,44 @@
+{
+    "angelinus" : [
+        {
+            "num": "01",
+            "param":"angelinus",
+            "name": "엔제리너스",
+            "main_bg": "#311B19",
+            "project": "브랜딩 웹사이트 반응형 웹개발",
+            "duration": "2022.12.20 - 2023.01.20",
+            "summary": "",
+            "link": "http://academy2023.dothome.co.kr/angelinus/",
+            "img_main": "angelinus_main.jpg",
+            "img_sub1": "angelinus_sub1.jpg",
+            "img_sub2": "angelinus_sub2.jpg",
+            "plan_per": "25%",
+            "plan_txt": "시장조사, 디자인 레퍼런스 조사",
+            "design_per": "25%",
+            "design_txt": "전체 페이지 디자인 관여, 로그인, 회원가입, 브랜드 페이지",
+            "publish_per": "25%",
+            "publish_txt": "헤더, 푸터, 회원가입 페이지, 메인페이지 휠 기능"
+        }
+    ],
+    "shinhan" : [
+        {
+            "num": "02",
+            "param":"shinhan",
+            "name": "신한금융지주",
+            "main_bg": "#0046FF",
+            "project": "시가총액 100대 기업내 선정 Renewal Project",
+            "duration": "2023.02.06 - 2023.03.15",
+            "summary": "ID: master / PW: mvp1234",
+            "link": "https://academy2023.dothome.co.kr/shinhan/www/main/index.php",
+            "img_main": "shinhan_main.jpg",
+            "img_sub1": "shinhan_sub1.jpg",
+            "img_sub2": "shinhan_sub2.jpg",
+            "plan_per": "25%",
+            "plan_txt": "시장조사, 디자인 레퍼런스 조사",
+            "design_per": "25%",
+            "design_txt": "전체 페이지 관여, 회사소개, ESG추진체계, PR센터",
+            "publish_per": "25%",
+            "publish_txt": "헤더, 푸터, PR센터(게시판) 및 DB"
+        }
+    ]
+}

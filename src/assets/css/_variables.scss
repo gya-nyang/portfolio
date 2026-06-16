@@ -1,0 +1,102 @@
+// 폰트 import
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+// breakpoint
+$breakpoint-mobile: 768px;
+$breakpoint-tablet: 1024px;
+//$breakpoint-desktop: 1200px;
+
+// 컬러
+$color-black: #333;
+$color-gray: #999;
+$color-white: #fff;
+$color-cyon: #0cf;
+
+
+// 폰트
+@mixin font-ui {
+  font-family: "Space Mono", monospace;
+  font-size: clamp(14px, 1.25vw, 24px);
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+@mixin font-typo {
+  font-family: "Space Mono", monospace;
+  font-size: clamp(64px, 6.25vw, 120px);
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+@mixin font-h3 {
+  font-family: 'Pretendard';
+  font-size: clamp(24px, 2.08vw, 40px);
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+@mixin font-h4 {
+  font-family: 'Pretendard';
+  font-size: clamp(16px, 1.25vw, 24px);
+  font-weight: 700;
+}
+
+@mixin font-p-big {
+  font-family: 'Pretendard';
+  font-size: clamp(20px, 2.08vw, 40px);
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+@mixin font-p-span {
+  font-family: 'Pretendard';
+  font-size: clamp(14px, 1.25vw, 24px);
+  font-weight: 700;
+}
+
+// @mixin font-p-span {
+//   font-family: 'Pretendard';
+//   font-size: clamp(14px, 1.25vw, 24px);
+//   font-weight: 700;
+// }
+
+@mixin font-p-title {
+  font-family: 'Pretendard';
+  font-size: clamp(14px, 1.25vw, 24px);
+  font-weight: 700;
+}
+
+@mixin font-p-txt {
+  font-family: 'Pretendard';
+  font-size: clamp(14px, 1.25vw, 24px);
+  font-weight: 300;
+  color: $color-gray;
+}
+
+// 간격
+$space-xs: 12px;
+$space-sm: clamp(40px, 3.125vw, 60px);
+$space-md: clamp(60px, 4.167vw, 80px);
+$space-lg: clamp(80px, 6.25vw, 120px);
+$space-xl: clamp(100px, 9.375vw, 180px);
+
+// transition
+
+@mixin transition-02 {
+  transition: .2s;
+}
+
+// 반응형
+
+@mixin mobile {
+  @media (max-width: #{$breakpoint-mobile}) {
+    @content; 
+  }
+}
+
+@mixin tablet {
+  @media (max-width: #{$breakpoint-tablet}) {
+    @content;
+  }
+}

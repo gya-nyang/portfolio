@@ -1,0 +1,184 @@
+{
+    "나랑디자인" : [
+        {
+            "text": "뉴스레터",
+            "name": "어린이청소년연구",
+            "duration": "2017.03 - 2018.12",
+            "img": "portfolio_21.jpg",
+            "link": "https://www.nlcy.go.kr/NLCY/contents/C10408040000.do?category=2",
+            "techStack": "html / css"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "에스팀",
+            "duration": "2017.06 - 2018.08",
+            "img": "portfolio_07.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_07.jpg",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "웹진 디자인 / 퍼블리싱",
+            "name": "엔젤협회",
+            "duration": "2017.08 - 2020.01",
+            "img": "portfolio_08.jpg",
+            "link": "https://www.kban.or.kr/jsp/ext/etc/cmm_9001.jsp?BBS_ID=92&programId=CMM-956&cmd=detail&BBS_NO=2120",
+            "techStack": "photoshop / html / css"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "삼성서울병원 국제협력파트",
+            "duration": "2019.03 - 2020.01",
+            "img": "portfolio_05.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_05.jpg",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 시안",
+            "name": "손스마켓_미국유제품협회",
+            "duration": "2019.05",
+            "img": "portfolio_06.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_06.jpg",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 제작",
+            "name": "경기콘텐츠진흥원",
+            "duration": "2019.07 - 2020.02",
+            "img": "portfolio_04.jpg",
+            "link": "https://www.gcon.or.kr/board/view?linkId=9771&menuId=MENU02368",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "전남대학교 기초교육원",
+            "duration": "2019.11 - 2020.06",
+            "img": "portfolio_10.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_10.jpg",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "웹진 디자인 / 퍼블리싱",
+            "name": "인천서구문화재단",
+            "duration": "2020.02 - 2022.06",
+            "img": "portfolio_09.jpg",
+            "link": "https://www.iscf.kr/_new/html/library/letter.php?mode=v&bbs_data=aWR4PTQ4NjQmc3RhcnRQYWdlPSZsaXN0Tm89NDUmdGFibGU9aWRfYmJzX2RhdGEmY29kZT1jb21tdW5pdHlfbmV3c2xldHRlciZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPQ==||",
+            "techStack": "photoshop / html / css"
+        },
+        {
+            "text": "웹진 디자인 / 퍼블리싱",
+            "name": "한국시각장애인연합회",
+            "duration": "2020.02",
+            "img": "portfolio_13.jpg",
+            "link": "http://www.kbuwel.or.kr/Board/HandWorld/Detail?page=5&contentSeq=1205911",
+            "techStack": "photoshop / html / css"
+        },
+        {
+            "text": "홈페이지 디자인",
+            "name": "은샘요양원",
+            "duration": "2020.03",
+            "img": "portfolio_18.jpg",
+            "link": "http://www.xn--4g4bk0ggwa5gyt.com/",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "국가균형발전위원회 NAVIS",
+            "duration": "2020.04 - 2021.02",
+            "img": "portfolio_11.jpg",
+            "link": "https://www.nabis.go.kr/newsLetterDetailView.do?comIdx=129&gbnCode=COM&refCode=130&businessType=&pageIndex=7&menucd=319",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "국립오페라단",
+            "duration": "2020.07",
+            "img": "portfolio_01.jpg",
+            "link": "https://www.nationalopera.org/cpage/board/newsletterkr/1985",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "홈페이지 기획 / 관리",
+            "name": "홍천군노인복지관",
+            "duration": "2020.12 - 2021.03",
+            "img": "portfolio_17.jpg",
+            "link": "https://hcknowin.org/",
+            "techStack": "php / css"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "월성원자력본부",
+            "duration": "2021.02",
+            "img": "portfolio_14.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_14.jpg",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "국가균형발전위원회 NAVIS",
+            "duration": "2021.05",
+            "img": "portfolio_12.jpg",
+            "link": "https://www.nabis.go.kr/newsLetterDetailView.do?comIdx=368&gbnCode=COM&refCode=130&businessType=&pageIndex=5&menucd=319",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "대한승강기협회",
+            "duration": "2021.08",
+            "img": "portfolio_03.jpg",
+            "link": "http://www.kola.or.kr/bbs/board.php?bo_table=notice&wr_id=35",
+            "techStack": "photoshop"
+        },
+        {
+            "text": "뉴스레터 디자인",
+            "name": "필라웨어",
+            "duration": "2021.08 - 2022.05",
+            "img": "portfolio_02.jpg",
+            "link": "/src/assets/images/portfolio/portfolio_02.jpg",
+            "techStack": "photoshop / html / css"
+        },
+        {
+            "text": "이메일 반응형 퍼블리싱",
+            "name": "WWF KOREA 판다메일",
+            "duration": "2022.08",
+            "img": "portfolio_15.jpg",
+            "link": "/src/assets/images/portfolio/wwfkorea/mail_inline.html",
+            "techStack": "html / css"
+        }
+    ],
+    "투브플러스" : [
+        {
+            "text": "홈페이지 유지보수",
+            "name": "발뮤다",
+            "duration": "2023.10 - 2024.04",
+            "img": "portfolio_24.jpg",
+            "link": "https://www.balmuda.co.kr",
+            "techStack": "php / mysql / css"
+        }
+    ],
+    "좋은땅" : [
+        {
+            "text": "홈페이지 유지보수",
+            "name": "좋은땅",
+            "duration": "2024.11 - 2026.02",
+            "img": "portfolio_25.jpg",
+            "link": "https://www.g-world.co.kr/counsel",
+            "techStack": "jsp / js / css"
+        },
+        {
+            "text": "epub 퍼블리싱",
+            "name": "도서 epub 작업 다수",
+            "duration": "2024.11 - 2026.02",
+            "img": "portfolio_26.jpg",
+            "link": "",
+            "techStack": "sigil"
+        },
+        {
+            "text": "퍼블리싱 / json상하차 / 테스트",
+            "name": "신규 프로젝트 - 작업 홀드",
+            "duration": "2024.12 - 2026.02",
+            "img": "",
+            "link": "",
+            "techStack": "jsp / js / scss / figma"
+        }
+    ]
+}

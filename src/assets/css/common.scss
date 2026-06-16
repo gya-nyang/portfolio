@@ -1,0 +1,29 @@
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  color: $color-white;
+  background: $color-black;
+}
+
+header,
+main,
+footer {
+  padding-inline: clamp(16px, 2.4vw, 48px);
+  overflow-x: hidden;
+}
+
+// 컨텐츠 구분 라인
+.content-with-line {
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -48px;
+    width: calc(100vw + 96px);
+    height: 1px;
+    background: rgba($color-white, 0.3);
+  }
+}

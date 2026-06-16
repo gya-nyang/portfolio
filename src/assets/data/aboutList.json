@@ -1,0 +1,39 @@
+{
+    "WORK_HISTORY" : [
+        {
+            "duration": "2016.11 - 2022.10",
+            "title": "나랑디자인",
+            "tag": ["웹디자인", "퍼블리싱"]
+        },
+        {
+            "duration": "2023.08 - 2024.05",
+            "title": "투브플러스",
+            "tag": ["웹디자인", "퍼블리싱"]
+        },
+        {
+            "duration": "2024.11 - 2026.02",
+            "title": "좋은땅",
+            "tag": ["퍼블리싱"]
+        }
+    ],
+
+    "TRAINING" : [
+        {
+            "duration": "2016.06 - 2016.11",
+            "title": "방송정보국제교육원",
+            "tag": ["PHOTOSHOP", "ILLUST", "HTML", "CSS", "JQUERY"]
+        },
+        {
+            "duration": "2022.11 - 2023.05",
+            "title": "그린아트컴퓨터학원",
+            "tag": ["HTML", "CSS", "JAVASCRIPT", "JQUERY", "PHP", "MYSQL", "REACT", "SCSS", "FIGMA"]
+        }
+    ],
+
+    "CERTIFICATION" : [
+        {
+            "duration": "2026.06.19",
+            "title": "SQLD"
+        }
+    ]
+}
