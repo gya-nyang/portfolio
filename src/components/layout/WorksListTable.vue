@@ -1,17 +1,10 @@
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref } from 'vue'
 const props = defineProps({
   item: Object,
 })
 
-onMounted(() => {
-  // isReady.value = true
-})
 
-const getImgUrl =(imgPath)=> {
-  const rename = imgPath.trim()
-  return `/public/images/portfolio/${rename}`
-}
 
 console.log(props)
 </script>
@@ -29,7 +22,7 @@ console.log(props)
             <a
               v-if="items2.link != ''" 
               :href="items2.link" target="_blank" class="thumbnail-area" >
-              <img :src="getImgUrl(items2.img)" :alt="items2.name">
+              <img :src="`/images/portfolio/${items2.img}`" :alt="items2.name">
               <p class="tech-stack">{{ items2.techStack }}</p>
             </a>
             <div 
@@ -37,7 +30,7 @@ console.log(props)
               class="thumbnail-area no-link">
               <img 
                 v-if="items2.img != ''"
-                :src="getImgUrl(items2.img)" :alt="items2.name">
+                :src="`/images/portfolio/${items2.img}`" :alt="items2.name">
               <p class="tech-stack">{{ items2.techStack }}</p>
             </div>
             <div class="box-bot">
